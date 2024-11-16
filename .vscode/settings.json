@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": true,
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "TRPC"
+  ]
+}
